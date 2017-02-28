@@ -39,19 +39,6 @@
         <tag>HEAD</tag>
     </scm>
 
-    <developers>
-        <developer>
-            <id>darroyo</id>
-            <name>David Arroyo</name>
-            <email>darroyo at stratio dot com</email>
-        </developer>
-        <developer>
-            <id>mtelloz</id>
-            <name>Max Tello</name>
-            <email>mtello at stratio dot com</email>
-        </developer>
-    </developers>
-
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,9 +47,6 @@
         <!-- Scala version and cross build properties -->
         <scala.binary.version>2.11</scala.binary.version>
         <scala.version>2.11.8</scala.version>
-        <scala_2.11.version>2.11.8</scala_2.11.version>
-        <default.scala.binary.version>2.11</default.scala.binary.version>
-        <default.scala.version>${scala_2.11.version}</default.scala.version>
     </properties>
 
     <dependencies>
@@ -120,25 +104,7 @@
                     </excludes>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>com.stratio.mojo</groupId>
-                <artifactId>scala-cross-build-maven-plugin</artifactId>
-                <version>0.1.0-RC3</version>
-                <configuration>
-                    <defaultScalaBinaryVersion>${default.scala.binary.version}</defaultScalaBinaryVersion>
-                    <defaultScalaVersion>${default.scala.version}</defaultScalaVersion>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
 
-    <profiles>
-        <profile>
-            <id>scala-2.11</id>
-            <properties>
-                <scala.version>${scala_2.11.version}</scala.version>
-                <scala.binary.version>2.11</scala.binary.version>
-            </properties>
-        </profile>
-    </profiles>
 </project>
