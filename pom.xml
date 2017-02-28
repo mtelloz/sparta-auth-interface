@@ -23,7 +23,7 @@
     </parent>
 
     <groupId>com.stratio.sparta</groupId>
-    <artifactId>sparta-auth-interface_2.11</artifactId>
+    <artifactId>sparta-auth-interface</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Sparta auth interface</name>
