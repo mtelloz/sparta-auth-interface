@@ -26,10 +26,6 @@ case object Create extends Action
 
 case object Delete extends Action
 
+case object Status extends Action
 
-
-sealed trait PolicyAction
-
-case object StatusAction extends PolicyAction
-
-case object Download extends PolicyAction
+case object Download extends Action
