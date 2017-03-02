@@ -18,7 +18,7 @@ package com.stratio.sparta.security
 
 sealed trait Action
 
-case object List extends Action
+case object View extends Action
 
 case object Edit extends Action
 
