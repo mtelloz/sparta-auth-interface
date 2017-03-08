@@ -9,6 +9,8 @@ hose {
     REPOSITORY = 'sparta-auth-interface'
     
     DEV = { config ->
+        doCompile(config)
+        doPackage(config)
         doDeploy(config)            
     }
 }
