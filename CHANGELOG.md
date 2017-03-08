@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.1 (upcoming)
+## 0.1.1 (March 08, 2017)
 
 * Jenkinsfile minor fix.
 
