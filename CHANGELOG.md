@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.2 (Upcoming)
+## 0.1.2 (upcoming)
 
 * Added  new resource types
 
