@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.2 (upcoming)
+## 0.1.2 (March 27, 2017)
 
 * Added  new resource types.
 
