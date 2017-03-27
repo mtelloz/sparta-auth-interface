@@ -33,3 +33,15 @@ case object PolicyResource extends ResourceType{
   override def name(): String = "policy"
 }
 
+case object PluginResource extends ResourceType{
+  override def name(): String = "plugin"
+}
+
+case object DriverResource extends ResourceType{
+  override def name(): String = "driver"
+}
+
+case object ContextResource extends ResourceType{
+  override def name(): String = "context"
+}
+
