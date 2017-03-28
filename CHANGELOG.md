@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.3 (upcoming)
+## 0.1.3 (March 28, 2017)
 
 * Added necessary actions
 
