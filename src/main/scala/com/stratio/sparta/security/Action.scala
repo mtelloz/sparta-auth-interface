@@ -29,3 +29,5 @@ case object Delete extends Action
 case object Status extends Action
 
 case object Download extends Action
+
+case object Upload extends Action
