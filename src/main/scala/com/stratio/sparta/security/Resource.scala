@@ -44,4 +44,3 @@ case object DriverResource extends ResourceType{
 case object ContextResource extends ResourceType{
   override def name(): String = "context"
 }
-
