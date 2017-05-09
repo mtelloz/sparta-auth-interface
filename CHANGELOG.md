@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.4 (upcoming)
+## 0.1.4 (May 09, 2017)
 
 * New resources and actions added
 
