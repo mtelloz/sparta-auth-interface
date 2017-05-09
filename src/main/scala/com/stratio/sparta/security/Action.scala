@@ -31,3 +31,5 @@ case object Status extends Action
 case object Download extends Action
 
 case object Upload extends Action
+
+case object Audit extends Action
