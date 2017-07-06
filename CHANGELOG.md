@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 (May 09, 2017)
+
+* New resources and actions added
+
 ## 0.1.3 (March 28, 2017)
 
 * Added necessary actions
