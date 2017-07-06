@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 (upcoming)
+
+* Backup resource added
+
 ## 0.1.4 (May 09, 2017)
 
 * New resources and actions added
