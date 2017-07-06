@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.5 (upcoming)
+## 0.1.5 (July 06, 2017)
 
 * Backup resource added
 
