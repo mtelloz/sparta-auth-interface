@@ -4,7 +4,12 @@
 
 * Pending changelog
 
-## 0.1.6 (upcoming)
+## 0.1.7 (July 07, 2017)
+
+* Crossdata catalog resource added
+* New action describe added
+
+## 0.1.6 (July 07, 2017)
 
 * Actions added for new resource
 
