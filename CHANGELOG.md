@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.7 (upcoming)
+## 0.1.7 (July 07, 2017)
 
 * Crossdata catalog resource added
 * New action describe added
