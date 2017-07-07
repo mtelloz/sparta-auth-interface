@@ -52,3 +52,7 @@ case object CheckpointResource extends ResourceType{
 case object BackupResource extends ResourceType{
   override def name(): String = "backup"
 }
+
+case object CatalogResource extends ResourceType{
+  override def name(): String = "catalog"
+}
