@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 (July 07, 2017)
+
+* Actions added for new resource
+
 ## 0.1.5 (July 06, 2017)
 
 * Backup resource added
