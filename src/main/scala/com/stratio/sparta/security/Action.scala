@@ -33,3 +33,5 @@ case object Download extends Action
 case object Upload extends Action
 
 case object Audit extends Action
+
+case object Execute extends Action
