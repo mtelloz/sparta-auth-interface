@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.6 (upcoming)
+## 0.1.6 (July 07, 2017)
 
 * Actions added for new resource
 
