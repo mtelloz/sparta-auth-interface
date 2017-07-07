@@ -35,3 +35,5 @@ case object Upload extends Action
 case object Audit extends Action
 
 case object Execute extends Action
+
+case object Describe extends Action
