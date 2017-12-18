@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.2.0 (upcoming)
+## 0.2.0 (December 18, 2017)
 
 * Template resource added
 * Workflow resource added
