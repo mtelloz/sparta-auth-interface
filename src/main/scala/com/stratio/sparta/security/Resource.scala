@@ -21,38 +21,42 @@ sealed trait ResourceType{
   def name(): String
 }
 
-case object InputResource extends ResourceType{
-  override def name(): String = "input"
-}
-
-case object OutputResource extends ResourceType{
-  override def name(): String = "output"
-}
-
-case object PolicyResource extends ResourceType{
-  override def name(): String = "policy"
-}
-
-case object PluginResource extends ResourceType{
-  override def name(): String = "plugin"
-}
-
-case object DriverResource extends ResourceType{
-  override def name(): String = "driver"
-}
-
-case object ContextResource extends ResourceType{
-  override def name(): String = "context"
-}
-
-case object CheckpointResource extends ResourceType{
-  override def name(): String = "checkpoint"
-}
-
 case object BackupResource extends ResourceType{
   override def name(): String = "backup"
 }
 
 case object CatalogResource extends ResourceType{
   override def name(): String = "catalog"
+}
+
+case object CheckpointResource extends ResourceType{
+  override def name(): String = "checkpoint"
+}
+
+case object ConfigurationResource extends ResourceType{
+  override def name(): String = "configuration"
+}
+
+case object ContextResource extends ResourceType{
+  override def name(): String = "context"
+}
+
+case object DriverResource extends ResourceType{
+  override def name(): String = "driver"
+}
+
+case object EnvironmentResource extends ResourceType{
+  override def name(): String = "environment"
+}
+
+case object PluginResource extends ResourceType{
+  override def name(): String = "plugin"
+}
+
+case object TemplateResource extends ResourceType{
+  override def name(): String = "template"
+}
+
+case object WorkflowResource extends ResourceType{
+  override def name(): String = "workflow"
 }

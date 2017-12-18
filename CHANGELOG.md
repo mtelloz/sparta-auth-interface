@@ -2,7 +2,10 @@
 
 ## 0.2.0 (upcoming)
 
-* Pending changelog
+* Template resource added
+* Workflow resource added
+* Environment resource added
+* Deleted: Input, Output, Policy
 
 ## 0.1.7 (July 07, 2017)
 
