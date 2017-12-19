@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 (upcoming)
+
+* Refactored name Context to Execution
+
 ## 0.2.0 (December 18, 2017)
 
 * Template resource added
