@@ -24,7 +24,7 @@
 
     <groupId>com.stratio.sparta</groupId>
     <artifactId>sparta-auth-interface</artifactId>
-    <version>0.2.1-RC1-SNAPSHOT</version>
+    <version>0.2.1</version>
     <packaging>jar</packaging>
     <name>Sparta auth interface</name>
     <description>Authorization interface for Stratio Sparta</description>

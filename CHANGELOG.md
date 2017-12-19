@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.1 (upcoming)
+## 0.2.1 (December 19, 2017)
 
 * Refactored name Context to Execution
 
