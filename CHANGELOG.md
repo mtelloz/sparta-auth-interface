@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.2 (upcoming)
+## 0.2.2 (December 28, 2017)
 
 * Group resource added
 
