@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 (upcoming)
+
+* Group resource added
+
 ## 0.2.1 (December 19, 2017)
 
 * Refactored name Context to Execution

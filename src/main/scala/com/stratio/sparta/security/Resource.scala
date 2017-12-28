@@ -49,6 +49,10 @@ case object ExecutionResource extends ResourceType{
   override def name(): String = "execution"
 }
 
+case object GroupResource extends ResourceType{
+  override def name(): String = "group"
+}
+
 case object PluginResource extends ResourceType{
   override def name(): String = "plugin"
 }
