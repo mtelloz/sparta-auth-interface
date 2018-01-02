@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.3 (upcoming)
+## 0.2.3 (January 02, 2018)
 
 * Status resource added
 
