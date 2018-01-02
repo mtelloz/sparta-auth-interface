@@ -57,6 +57,10 @@ case object PluginResource extends ResourceType{
   override def name(): String = "plugin"
 }
 
+case object StatusResource extends ResourceType{
+  override def name(): String = "status"
+}
+
 case object TemplateResource extends ResourceType{
   override def name(): String = "template"
 }
