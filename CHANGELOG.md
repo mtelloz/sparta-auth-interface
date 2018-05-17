@@ -2,7 +2,8 @@
 
 ## 0.3.0 (upcoming)
 
-* Pending changelog
+* Updated POM parent dependency
+* Added changes in Jenkinsfile
 
 ## 0.2.0 (December 18, 2017)
 
