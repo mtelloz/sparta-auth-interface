@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.4 (upcoming)
+
+* Updated POM parent dependency
+* Added changes in Jenkinsfile
+
 ## 0.2.3 (January 02, 2018)
 
 * Status resource added
